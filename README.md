@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">🌍 A passionate full stack developer from pakistan, kasur.Working on the React js, Next js, and Node js with express frameworks.</h3>
+<h1 align="left">Hi 👋, I'm Abdul Moiz</h1>
+<p align="left">🌍 A passionate full stack developer from pakistan, kasur.Working on the React js, Next js, and Node js with express frameworks.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moizhanifdev&label=Profile%20views&color=0e75b6&style=flat" alt="moizhanifdev" /> </p>
 
