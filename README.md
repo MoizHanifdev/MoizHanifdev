@@ -1,4 +1,4 @@
-<h1 align="left">Hi ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Abdul Moiz</h1>
+Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Abdul Moiz
 <p align="left">🌍 A passionate full stack developer from pakistan, kasur.Working on the React js, Next js, and Node js with express frameworks.</p>
 </hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moizhanifdev&label=Profile%20views&color=0e75b6&style=flat" alt="moizhanifdev" /> </p>
