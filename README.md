@@ -30,9 +30,12 @@
 ### Top Skilled Languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moizhanifdev&show_icons=true&locale=en&layout=compact" alt="moizhanifdev" /></p>
 </br>
+
 ### GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moizhanifdev&show_icons=true&locale=en" alt="moizhanifdev" /></p>
 </br>
+
+### GitHub Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moizhanifdev&" alt="moizhanifdev" /></p>
 
 ### GitHub Profile Trophies
