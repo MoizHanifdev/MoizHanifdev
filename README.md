@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Abdul Moiz</h1>
 <p align="left">🌍 A passionate full stack developer from pakistan, kasur.Working on the React js, Next js, and Node js with express frameworks.</p>
 </hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moizhanifdev&label=Profile%20views&color=0e75b6&style=flat" alt="moizhanifdev" /> </p>
 </br>
-
 - 🔭 I’m currently working on [Gardening Care Application](https://github.com/MoizHanifdev/Gardening-Care-Applicationhttps://github.com/MoizHanifdev/Gardening-Care-Application)
 
 - 🌱 I’m currently learning **next js**
