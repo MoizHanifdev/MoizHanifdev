@@ -3,11 +3,9 @@
 </hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moizhanifdev&label=Profile%20views&color=0e75b6&style=flat" alt="moizhanifdev" /> </p>
 
-- 🔭 I’m currently working on [Gardening Care Application](https://github.com/MoizHanifdev/Gardening-Care-Application)
+- 🌱 I’m currently learning **Bussiness Development**
 
-- 🌱 I’m currently learning **next js**
-
-- 💬 Ask me about **react js, next js, nodejs**
+- 💬 Ask me about **react js, next js, nodejs, AI/ML Basics, Bussiness Developer Executive**
 
 - 📫 How to reach me **moizhanif.dev@gmail.com**
 
